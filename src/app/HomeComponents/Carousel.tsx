@@ -42,7 +42,6 @@ const Carousel = () => {
             ))}
           </Slider>
         </div>
-        <div className="z-1 absolute border-t-6 border-green-500"></div>
         <br></br>
       </div>
       <div className="flex justify-around mt-7 mb-7"></div>

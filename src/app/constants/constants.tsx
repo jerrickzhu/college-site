@@ -20,6 +20,20 @@ export const TESTIMONIAL_DATA = [
     image: "/Dartmouth.jpg",
   },
   {
+    school: "Vanderbilt",
+    name: "Brian L",
+    praise:
+      "I just got a likely letter from Vandy. I got a full 4 year scholarship from the Cornelius Vanderbilt thing",
+    image: "/vandy.svg",
+  },
+  {
+    school: "Harvard",
+    name: "Mani",
+    praise:
+      "Hey man, I ended up getting into Harvard and Rice - thanks for your help with my common app essay!",
+    image: "/Harvard.svg",
+  },
+  {
     school: "Stanford",
     name: "Aya",
     praise:
@@ -31,7 +45,21 @@ export const TESTIMONIAL_DATA = [
     name: "Marcos J",
     praise:
       "I got into Cornell (with a likely), MIT, Columbia (with a likely), Harvard, and Princeton. Thank the lord, and thank you!",
-    image: "Harvard.svg",
+    image: "/Harvard.svg",
+  },
+  {
+    school: "UC Berkeley",
+    name: "Anonymous",
+    praise:
+      "Hey there, I just wanted to share the great news that I actually got into Cal early with the regents interview. Tysm for all the help!!",
+    image: "/berkeley.svg",
+  },
+  {
+    school: "Georgetown",
+    name: "Nirvana",
+    praise:
+      "Yay!!! I got off the gtown waitlist!!! I'm so excited!! Thank you!!!",
+    image: "/georgetown.svg",
   },
 ];
 
