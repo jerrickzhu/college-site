@@ -17,13 +17,13 @@ const OurServices = () => {
       <Link href="/services">
         <div className="border border-blue-300 rounded-3xl overflow-hidden">
           <div className="flex flex-row">
-            <div className="flex-shrink-0">
+            <div className="flex">
               <Image
                 src="/ApplicationWriting.svg"
                 alt="app-service"
                 width={516}
                 height={392}
-                className="rounded-3xl flex"
+                className="rounded-3xl hidden md:flex"
               />
             </div>
             <div className="flex flex-col justify-center flex-grow p-4">
