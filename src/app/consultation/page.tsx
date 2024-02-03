@@ -20,8 +20,9 @@ const Consultation = () => {
         </h1>
         <h1 className={`${poppins.className} mt-3`}>
           After submission, I'll get back to you within 3 days so we can chat a
-          little more about your goals and how I can help you. Looking forward
-          to chatting soon!
+          little more about your goals and how I can help you. If you're not an
+          incoming high school senior, still feel free contact me! I'd love to
+          help in any capacity. Looking forward to chatting soon!
         </h1>
       </div>
 
