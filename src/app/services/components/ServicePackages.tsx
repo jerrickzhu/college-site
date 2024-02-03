@@ -12,7 +12,7 @@ const ServicePackages = ({ font }: ServicePackagesProps) => {
         Our Services
       </h1>
       <h2 className={`${font[1].className} text-blue-300 text-3xl mb-6`}>
-        Full Package Consulting
+        Full Package Consulting - $7000
       </h2>
       <p className={`${font[1].className}`}>
         At every step of the process, from college lists to letters of
