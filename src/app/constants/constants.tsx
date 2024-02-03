@@ -20,6 +20,13 @@ export const TESTIMONIAL_DATA = [
     image: "/Dartmouth.jpg",
   },
   {
+    school: "Stanford",
+    name: "Aya",
+    praise:
+      "Much of my stress evaporated when Jay began to help me. Each session granted new insight, and I personally credit much of my Stanford acceptance to his help.",
+    image: "/stanford.svg",
+  },
+  {
     school: "Vanderbilt",
     name: "Brian L",
     praise:
@@ -32,13 +39,6 @@ export const TESTIMONIAL_DATA = [
     praise:
       "Hey man, I ended up getting into Harvard and Rice - thanks for your help with my common app essay!",
     image: "/Harvard.svg",
-  },
-  {
-    school: "Stanford",
-    name: "Aya",
-    praise:
-      "Much of my stress evaporated when Jay began to help me. Each session granted new insight, and I personally credit much of my Stanford acceptance to his help.",
-    image: "/stanford.svg",
   },
   {
     school: "Harvard",
