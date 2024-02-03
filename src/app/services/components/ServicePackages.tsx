@@ -15,14 +15,15 @@ const ServicePackages = ({ font }: ServicePackagesProps) => {
         Full Package Consulting - $7000
       </h2>
       <p className={`${font[1].className}`}>
-        At every step of the process, from college lists to letters of
-        acceptance, I provide you guidance all throughout. After working in top
-        20 universities, reading thousands of applications, and pitching
-        students in numerous committees, I use my experience to help you craft
-        an application that taps into your unique intellectual vitality and
-        personality. I'm with you every step of the way, talking you through the
-        process and helping you learn more about yourself so you can write
-        honestly and emphatically that will catch any admissions officer's eye.
+        Designed for incoming high school seniors, I work with you in every step
+        of the process, from college lists to letters of acceptance. After
+        working in top 20 universities, reading thousands of applications, and
+        pitching students in numerous committees, I use my experience to help
+        you craft an application that taps into your unique intellectual
+        vitality and personality. I'm with you every step of the way, talking
+        you through the process and helping you learn more about yourself so you
+        can write honestly and emphatically that will catch any admissions
+        officer's eye.
       </p>
       <div className="flex justify-center">
         <div>
