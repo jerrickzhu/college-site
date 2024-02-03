@@ -18,7 +18,7 @@ const Services = () => {
         <ServicePackages font={[serif, poppins]} />
         <HowWeWillWork font={[serif, poppins]} />
       </div>
-      <HearMore text={`Want to hear more from us?`} />
+      <HearMore text={`Want to work together?`} />
     </>
   );
 };
