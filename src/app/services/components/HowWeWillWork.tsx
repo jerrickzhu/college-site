@@ -23,14 +23,14 @@ const HowWeWillWork = ({ font }: HowWeWillWorkProps) => {
       <p className={`${font[1].className} leading-6`}>
         During my time in an Ivy League admissions office, the biggest question
         I always have when reading was, "Did this student really present
-        themselves well in this application?" The answer was often no,
-        especially after denying so many students. One of the biggest problems
-        is that students often cannot reveal who they are and their own
-        intellectual heart very well in applications. So, one of the biggest
-        things I focus on with students is introspection. Who are you? Why do
-        you love learning? What do you love learning about? We'll use those
-        fundamental questions to start bridging the gap between you and the
-        colleges you want to go to. But before that, we'll get you and your
+        themselves well in this application, and do they stand out?" The answer
+        was often no, especially after denying so many students. One of the
+        biggest problems is that students often cannot reveal who they are and
+        their own intellectual heart very well in applications. So, one of the
+        biggest things I focus on with students is introspection. Who are you?
+        Why do you love learning? What do you love learning about? We'll use
+        those fundamental questions to start bridging the gap between you and
+        the colleges you want to go to. But before that, we'll get you and your
         family familiar with the landscape of college admissions. After that, we
         have three stage process to getting you to the end: Introspection and
         Mentorship, Essay Revisions, and Application Review.

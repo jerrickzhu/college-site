@@ -28,21 +28,28 @@ const ServicePackages = ({ font }: ServicePackagesProps) => {
       <div className="flex justify-center">
         <div>
           <ul
-            className={`${font[1].className} flex flex-col items-center list-disc my-5 border border-blue-300 rounded-md p-8`}
+            className={`${font[1].className} flex flex-col list-disc my-5 border border-blue-300 rounded-md p-8`}
           >
-            <h1 className="text-2xl">What this package includes: </h1>
-            <li>Up to 9 college applications</li>
-            <li>
-              Early meeting with you and your parents to explain the state of
-              college admissions
-            </li>
-            <li>College Selection Guide</li>
-            <li>Application Brainstorming Sessions</li>
-            <li>Weekly hour-long 1:1 meetings</li>
-            <li>Extracurricular brainstorming to help you stand out more</li>
-            <li>Unlimited messages and questions on Discord and/or email</li>
-            <li>Essay Revisions</li>
-            <li>Complete Application Review</li>
+            <h1 className="text-2xl flex justify-center text-blue-300">
+              What this package includes
+            </h1>
+            <span className="px-4">
+              <li>Up to 9 college applications</li>
+              <li>
+                Early meeting with you and your parents to explain the state of
+                college admissions
+              </li>
+              <li>College Selection Strategy and Guidance</li>
+              <li>Application Brainstorming Sessions</li>
+              <li>Weekly hour-long 1:1 meetings</li>
+              <li>Extracurricular brainstorming to help you stand out</li>
+              <li>
+                Unlimited messages and questions on Discord and/or email. Always
+                responsive.
+              </li>
+              <li>Unlimited Essay Revisions</li>
+              <li>Complete Application Review</li>
+            </span>
           </ul>
         </div>
       </div>
