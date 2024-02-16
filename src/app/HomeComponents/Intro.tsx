@@ -15,7 +15,7 @@ const Intro = () => {
         </h1>
         <p className="text-white mt-4 px-2 text-center">
           I'm here to guide you through every part of the college application
-          process, while allowing you to get to know yourself better along the
+          process while allowing you to get to know yourself better along the
           process.
         </p>
       </div>

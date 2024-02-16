@@ -31,9 +31,10 @@ const HowWeWillWork = ({ font }: HowWeWillWorkProps) => {
         Why do you love learning? What do you love learning about? We'll use
         those fundamental questions to start bridging the gap between you and
         the colleges you want to go to. But before that, we'll get you and your
-        family familiar with the landscape of college admissions. After that, we
-        have three stage process to getting you to the end: Introspection and
-        Mentorship, Essay Revisions, and Application Review.
+        family familiar with the landscape of college admissions and{" "}
+        <strong>insider secrets</strong>. After that, we have three stage
+        process to getting you to the end: Introspection and Mentorship, Essay
+        Revisions, and Application Review.
       </p>
       <div className="mt-8 flex flex-col items-center justify-center mb-4 flex-grow">
         <HowWeWillWorkContainers

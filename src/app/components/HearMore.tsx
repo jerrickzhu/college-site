@@ -8,7 +8,7 @@ const serif = DM_Serif_Text({ subsets: ["latin"], weight: "400" });
 
 const HearMore = ({ text }: HearMoreProps) => {
   return (
-    <div className="bg-blue-200 h-56 flex flex-col justify-center items-center">
+    <div className="bg-blue-200 h-56 flex flex-col shadow-md justify-center items-center">
       <h1 className={`${serif.className} text-4xl text-blue-300`}>{text}</h1>
       <Button
         text={"TELL US ABOUT YOURSELF!"}
